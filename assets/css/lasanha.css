@@ -1,0 +1,46 @@
+.receita__lasanha {
+    background: #B0C4DE;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 125px;
+}
+
+.igredientes__titulo, .igredientes__titulo-preparo {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 33px;
+    text-align: center;
+}
+
+
+.igredientes__titulo:hover, .igredientes__titulo-preparo:hover {
+    font-size: 35px;
+    text-decoration: underline;
+    opacity: 80%;
+    transition: 0.2s;
+}
+
+.preparo {
+    padding-bottom:145px;
+}
+.igredientes__sub-titulo {
+    font-size: 20px;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: bold;
+}
+
+.igredientes__sub-titulo:hover, .igredientes__sub-titulo2:hover {
+    text-decoration: underline;
+    font-size: 27px;
+    opacity: 80%;
+    transition: 0.2s;
+}
+
+.ingrediente__texto{
+    font-family: 'Belleza', sans-serif;
+}
+.igredientes {
+    font-family: 'Economica', sans-serif;
+    font-size: 23px;
+} 
+
